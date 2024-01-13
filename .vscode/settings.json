@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.enableConfigurationSquiggles": true,
+    "terminal.integrated.enableImages": true,
+    "C_Cpp.inlayHints.autoDeclarationTypes.enabled": false,
+    "C_Cpp.inlayHints.parameterNames.enabled": true
+}
